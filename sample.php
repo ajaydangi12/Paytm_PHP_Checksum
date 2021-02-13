@@ -6,7 +6,7 @@ require_once("./PaytmChecksum.php");
 $paytmParams = array();
 
 /* add parameters in Array */
-$paytmParams["MID"] = "YOUR_MID_HERE";
+$paytmParams["MID"] = "twRM%2Moaeva&EYr";
 $paytmParams["ORDERID"] = "YOUR_ORDERID_HERE";
 
 /**
